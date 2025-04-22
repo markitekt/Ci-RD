@@ -1,5 +1,3 @@
-import rvt
-from pyrevit import __version__
 from pyrevit import forms
 from pyrevit import revit, DB
 
