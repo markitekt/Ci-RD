@@ -1,0 +1,9 @@
+# bundle title
+title: "Annotate\nDimensions"
+tooltip: "Sets annotation for selected dimensions. \n \nWill add annotation to entire dimension string."
+
+author: Mike Evers
+
+min_revit_version: 2023
+
+context: OST_Dimensions

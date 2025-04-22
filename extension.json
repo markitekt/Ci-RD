@@ -1,0 +1,18 @@
+{
+    "extensions": [
+        {
+            "builtin": "False",
+            "type": "extension",
+            "default_enabled": "True",
+            "rocket_mode_compatible": "False",
+            "name": "MDR&D",
+            "description": "pyRevit tools for Ci Design",
+            "author": "MD",
+            "author_profile": "https://github.com/markitekt",
+            "url": "https://github.com/markitekt/Ci-RD",
+            "website": "https://github.com/markitekt/Ci-RD",
+            "image": "",
+            "dependencies": []
+        }
+    ]
+}
